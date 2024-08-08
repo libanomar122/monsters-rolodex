@@ -1,8 +1,4 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-src/components/search-box/search-box.test.js
-src/components/card-list/card-list.test.js
-src/components/card/card.test.js
-src/App.test.js
 
 # dependencies
 /node_modules
